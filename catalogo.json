@@ -1,0 +1,138 @@
+[ {
+  "isbn" : "978-9546190",
+  "titolo" : "L'arte di cambiare il destino",
+  "annoPubblicazione" : 1910,
+  "numeroPagine" : 149,
+  "autore" : "Anna Moretti",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9517916",
+  "titolo" : "Viaggi e Avventure",
+  "annoPubblicazione" : 1907,
+  "numeroPagine" : 54,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3247367",
+  "titolo" : "Le cronache del sole nascente 3",
+  "annoPubblicazione" : 1994,
+  "numeroPagine" : 755,
+  "autore" : "Antonio Esposito",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9149645",
+  "titolo" : "Il Pensiero Scientifico",
+  "annoPubblicazione" : 2014,
+  "numeroPagine" : 33,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-6252270",
+  "titolo" : "La biblioteca dei segreti perduti",
+  "annoPubblicazione" : 1968,
+  "numeroPagine" : 826,
+  "autore" : "Paolo Fontana",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-2228620",
+  "titolo" : "Tecnologia e Futuro",
+  "annoPubblicazione" : 1907,
+  "numeroPagine" : 64,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8653265",
+  "titolo" : "Le cronache del sole nascente 1",
+  "annoPubblicazione" : 1974,
+  "numeroPagine" : 429,
+  "autore" : "Antonio Esposito",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-1844335",
+  "titolo" : "Mondi Antichi e Moderni",
+  "annoPubblicazione" : 1989,
+  "numeroPagine" : 39,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-4138297",
+  "titolo" : "I sogni di un tempo lontano",
+  "annoPubblicazione" : 1941,
+  "numeroPagine" : 525,
+  "autore" : "Silvia Conti",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-8949630",
+  "titolo" : "Il Giornale della Conoscenza",
+  "annoPubblicazione" : 1980,
+  "numeroPagine" : 46,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-1700451",
+  "titolo" : "Il mistero della foresta incantata",
+  "annoPubblicazione" : 1949,
+  "numeroPagine" : 475,
+  "autore" : "Mario Rossi",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-7679350",
+  "titolo" : "Mondi Antichi e Moderni",
+  "annoPubblicazione" : 1923,
+  "numeroPagine" : 42,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-1508760",
+  "titolo" : "L'arte di cambiare il destino",
+  "annoPubblicazione" : 1933,
+  "numeroPagine" : 115,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-1043424",
+  "titolo" : "Visioni del Domani",
+  "annoPubblicazione" : 2019,
+  "numeroPagine" : 65,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-9422273",
+  "titolo" : "Le cronache del sole nascente 2",
+  "annoPubblicazione" : 1979,
+  "numeroPagine" : 369,
+  "autore" : "Antonio Esposito",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-4527106",
+  "titolo" : "Scienza e Innovazione Oggi",
+  "annoPubblicazione" : 1979,
+  "numeroPagine" : 36,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9491565",
+  "titolo" : "I sogni di un tempo lontano",
+  "annoPubblicazione" : 1951,
+  "numeroPagine" : 996,
+  "autore" : "Francesco De Luca",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-7074320",
+  "titolo" : "Storia e Miti",
+  "annoPubblicazione" : 1951,
+  "numeroPagine" : 62,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-7575058",
+  "titolo" : "Il canto della fenice dorata",
+  "annoPubblicazione" : 1951,
+  "numeroPagine" : 710,
+  "autore" : "Anna Moretti",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-7091784",
+  "titolo" : "Viaggi e Avventure",
+  "annoPubblicazione" : 1911,
+  "numeroPagine" : 54,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "999999999",
+  "titolo" : "IO, Pippo.",
+  "annoPubblicazione" : 2000,
+  "numeroPagine" : 254,
+  "autore" : "Pippo Baudo",
+  "genere" : "Biografia"
+} ]
