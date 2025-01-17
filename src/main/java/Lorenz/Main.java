@@ -60,8 +60,8 @@ public class Main {
                             _Wn("\nInserisci ISBN: ");
                             isbn = (String) _LI("string", scanner);
 
-                            if (isbn.length() <= 5) {
-                                _W("\nL'ISBN deve essere di almeno 5 caratteri.");
+                            if (isbn.length() < 5 || isbn.length() > 11) {
+                                _W("\nL'ISBN deve essere compreso tra 5 e 11 caratteri.");
                                 continue;
                             }
                             if (archivio.controlloIsbn(isbn)) {
@@ -190,8 +190,8 @@ public class Main {
                             _Wn("\nInserisci ISBN dell'elemento da aggiornare: ");
                             isbn = (String) _LI("string", scanner);
 
-                            if (isbn.length() <= 5) {
-                                _W("\nL'ISBN deve essere di almeno 5 caratteri.");
+                            if (isbn.length() < 5 || isbn.length() > 11) {
+                                _W("\nL'ISBN deve essere compreso tra 5 e 11 caratteri.");
                                 continue;
                             }
                             if (!archivio.controlloIsbn(isbn)) {

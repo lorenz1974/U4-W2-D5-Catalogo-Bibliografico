@@ -59,7 +59,7 @@ public class ElementoCatalogo {
                     ", numeroPagine=" + numeroPagine +
                     '}';
         } else {
-            return String.format("| %-10s | %-50s | %-4d | %-4d |", isbn, titolo, annoPubblicazione, numeroPagine);
+            return String.format("| %-11s | %-50s | %-4d | %-4d |", isbn, titolo, annoPubblicazione, numeroPagine);
         }
     }
 }
