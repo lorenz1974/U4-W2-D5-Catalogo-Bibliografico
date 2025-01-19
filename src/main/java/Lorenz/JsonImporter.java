@@ -11,11 +11,29 @@ import java.util.Map;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import static Lorenz.GeneratoreFileJSON.GeneraFileCasuale;
+
 class JsonImporter {
-    public static List<ElementoCatalogo> importaDaFile(String filePath) {
+
+    private String filePath;
+
+    public JsonImporter(String filePath) {
+        this.filePath = filePath;
+    }
+
+    public List<ElementoCatalogo> importaDaFile() {
+
+        Path path = Paths.get(this.filePath);
+
+        // Prima controlla se il file esiste, se non esiste lo genera
+        if (!Files.exists(path)) {
+            GeneraFileCasuale(this.filePath);
+        }
+
+        // ... e poi lo legge
         ObjectMapper mapper = new ObjectMapper();
         List<ElementoCatalogo> elementi = new ArrayList<>();
-        Path path = Paths.get(filePath);
+        path = Paths.get(filePath);
 
         try {
             String json = Files.readString(path);

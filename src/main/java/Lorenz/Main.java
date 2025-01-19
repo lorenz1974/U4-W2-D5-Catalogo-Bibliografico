@@ -254,7 +254,7 @@ public class Main {
                     // AnySearch
                     case "a" -> {
                         _W("");
-                        _R("-", 60);
+                        _R("-", 132);
                         _Wn("\nInserisci il testo da ricercare in tutti i campi: ");
 
                         String query = (String) _LI("string", scanner);

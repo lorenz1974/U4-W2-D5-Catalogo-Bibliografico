@@ -16,7 +16,7 @@ public class GeneratoreFileJSON {
 
     private static final Random random = new Random();
 
-    public static void GeneraFileCasuale(String[] args) {
+    public static void GeneraFileCasuale(String filePath) {
         List<ElementoCatalogo> elementi = new ArrayList<>();
 
         for (int i = 0; i < 10; i++) {
@@ -24,7 +24,7 @@ public class GeneratoreFileJSON {
             elementi.add(generaRivistaCasuale());
         }
 
-        scriviSuFileJSON(elementi, "catalogo.json");
+        scriviSuFileJSON(elementi, filePath);
     }
 
     private static Libro generaLibroCasuale() {

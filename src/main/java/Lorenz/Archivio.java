@@ -206,6 +206,7 @@ class Archivio {
     }
 
     public void caricaDaFile() {
-        catalogo.addAll(JsonImporter.importaDaFile(fileJson));
+        JsonImporter file = new JsonImporter(fileJson);
+        catalogo.addAll(file.importaDaFile());
     }
 }
