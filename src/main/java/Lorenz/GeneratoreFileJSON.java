@@ -10,14 +10,14 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static Lorenz.Utils._W;
+import static Lorenz.Utils.*;
 
 public class GeneratoreFileJSON {
 
+    private static List<ElementoCatalogo> elementi = new ArrayList<>();
     private static final Random random = new Random();
 
     public static void GeneraFileCasuale(String filePath) {
-        List<ElementoCatalogo> elementi = new ArrayList<>();
 
         for (int i = 0; i < 250; i++) {
             int tipo = random.nextInt(2);
@@ -33,7 +33,7 @@ public class GeneratoreFileJSON {
     private static Libro generaLibroCasuale() {
         String isbn = generaISBN();
         String titolo = generaTitoloLibroCasuale();
-        int anno = random.nextInt(2020 - 1900) + 1900;
+        int anno = random.nextInt(2020 - 2000) + 2000;
         int pagine = random.nextInt(900) + 100;
         String autore = generaNomeAutoreCasuale();
         String genere = generaGenereCasuale();
@@ -44,7 +44,7 @@ public class GeneratoreFileJSON {
     private static Rivista generaRivistaCasuale() {
         String isbn = generaISBN();
         String titolo = generaTitoloRivistaCasuale();
-        int anno = random.nextInt(2020 - 1900) + 1900;
+        int anno = random.nextInt(2020 - 2000) + 2000;
         int pagine = random.nextInt(50) + 20;
         Periodicita periodicita = Periodicita.values()[random.nextInt(Periodicita.values().length)];
 
@@ -109,7 +109,19 @@ public class GeneratoreFileJSON {
                 "Il risveglio delle antiche leggende",
                 "La strada verso l'eternità"
         };
-        return titoli[random.nextInt(titoli.length)];
+
+        // Seleziona un titolo casuale dalla lista
+        String titoloBase = titoli[random.nextInt(titoli.length)];
+        int volume = 0;
+
+        // Crea un titolo unico aggiungendo un numero se necessario
+        while (true) {
+            String titoloComposto = titoloBase + (volume == 0 ? "" : " " + volume);
+            if (elementi.stream().noneMatch(e -> e.getTitolo().equals(titoloComposto))) {
+                return titoloComposto;
+            }
+            volume++;
+        }
     }
 
     private static String generaTitoloRivistaCasuale() {
@@ -166,7 +178,18 @@ public class GeneratoreFileJSON {
                 "Chimica e Innovazione",
                 "Energia del Futuro"
         };
-        return titoli[random.nextInt(titoli.length)];
+        // Seleziona un titolo casuale dalla lista
+        String titoloBase = titoli[random.nextInt(titoli.length)];
+        int volume = 0;
+
+        // Crea un titolo unico aggiungendo un numero se necessario
+        while (true) {
+            String titoloComposto = titoloBase + (volume == 0 ? "" : " " + volume);
+            if (elementi.stream().noneMatch(e -> e.getTitolo().equals(titoloComposto))) {
+                return titoloComposto;
+            }
+            volume++;
+        }
     }
 
     private static String generaNomeAutoreCasuale() {
