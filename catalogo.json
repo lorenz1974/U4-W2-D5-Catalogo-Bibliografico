@@ -1,138 +1,1635 @@
 [ {
-  "isbn" : "978-9546190",
-  "titolo" : "L'arte di cambiare il destino",
-  "annoPubblicazione" : 1910,
-  "numeroPagine" : 149,
-  "autore" : "Anna Moretti",
-  "genere" : "Storico"
+  "isbn" : "978-6518176",
+  "titolo" : "Le terre del crepuscolo",
+  "annoPubblicazione" : 1971,
+  "numeroPagine" : 643,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Fantasy"
 }, {
-  "isbn" : "978-9517916",
+  "isbn" : "978-4903125",
+  "titolo" : "Le terre del crepuscolo",
+  "annoPubblicazione" : 1954,
+  "numeroPagine" : 932,
+  "autore" : "Chiara Galli",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3729655",
   "titolo" : "Viaggi e Avventure",
-  "annoPubblicazione" : 1907,
-  "numeroPagine" : 54,
-  "periodicita" : "SEMESTRALE"
-}, {
-  "isbn" : "978-3247367",
-  "titolo" : "Le cronache del sole nascente 3",
-  "annoPubblicazione" : 1994,
-  "numeroPagine" : 755,
-  "autore" : "Antonio Esposito",
-  "genere" : "Storico"
-}, {
-  "isbn" : "978-9149645",
-  "titolo" : "Il Pensiero Scientifico",
-  "annoPubblicazione" : 2014,
-  "numeroPagine" : 33,
-  "periodicita" : "SEMESTRALE"
-}, {
-  "isbn" : "978-6252270",
-  "titolo" : "La biblioteca dei segreti perduti",
-  "annoPubblicazione" : 1968,
-  "numeroPagine" : 826,
-  "autore" : "Paolo Fontana",
-  "genere" : "Biografia"
-}, {
-  "isbn" : "978-2228620",
-  "titolo" : "Tecnologia e Futuro",
-  "annoPubblicazione" : 1907,
-  "numeroPagine" : 64,
-  "periodicita" : "MENSILE"
-}, {
-  "isbn" : "978-8653265",
-  "titolo" : "Le cronache del sole nascente 1",
-  "annoPubblicazione" : 1974,
-  "numeroPagine" : 429,
-  "autore" : "Antonio Esposito",
-  "genere" : "Storico"
-}, {
-  "isbn" : "978-1844335",
-  "titolo" : "Mondi Antichi e Moderni",
-  "annoPubblicazione" : 1989,
-  "numeroPagine" : 39,
-  "periodicita" : "SETTIMANALE"
-}, {
-  "isbn" : "978-4138297",
-  "titolo" : "I sogni di un tempo lontano",
-  "annoPubblicazione" : 1941,
-  "numeroPagine" : 525,
-  "autore" : "Silvia Conti",
-  "genere" : "Biografia"
-}, {
-  "isbn" : "978-8949630",
-  "titolo" : "Il Giornale della Conoscenza",
-  "annoPubblicazione" : 1980,
-  "numeroPagine" : 46,
-  "periodicita" : "MENSILE"
-}, {
-  "isbn" : "978-1700451",
-  "titolo" : "Il mistero della foresta incantata",
-  "annoPubblicazione" : 1949,
-  "numeroPagine" : 475,
-  "autore" : "Mario Rossi",
-  "genere" : "Giallo"
-}, {
-  "isbn" : "978-7679350",
-  "titolo" : "Mondi Antichi e Moderni",
-  "annoPubblicazione" : 1923,
-  "numeroPagine" : 42,
-  "periodicita" : "MENSILE"
-}, {
-  "isbn" : "978-1508760",
-  "titolo" : "L'arte di cambiare il destino",
-  "annoPubblicazione" : 1933,
-  "numeroPagine" : 115,
-  "autore" : "Luigi Bianchi",
-  "genere" : "Biografia"
-}, {
-  "isbn" : "978-1043424",
-  "titolo" : "Visioni del Domani",
-  "annoPubblicazione" : 2019,
-  "numeroPagine" : 65,
-  "periodicita" : "SETTIMANALE"
-}, {
-  "isbn" : "978-9422273",
-  "titolo" : "Le cronache del sole nascente 2",
-  "annoPubblicazione" : 1979,
-  "numeroPagine" : 369,
-  "autore" : "Antonio Esposito",
-  "genere" : "Storico"
-}, {
-  "isbn" : "978-4527106",
-  "titolo" : "Scienza e Innovazione Oggi",
-  "annoPubblicazione" : 1979,
+  "annoPubblicazione" : 1993,
   "numeroPagine" : 36,
   "periodicita" : "MENSILE"
 }, {
-  "isbn" : "978-9491565",
-  "titolo" : "I sogni di un tempo lontano",
-  "annoPubblicazione" : 1951,
-  "numeroPagine" : 996,
-  "autore" : "Francesco De Luca",
+  "isbn" : "978-8383002",
+  "titolo" : "La maledizione del re oscuro",
+  "annoPubblicazione" : 1927,
+  "numeroPagine" : 203,
+  "autore" : "Silvia Conti",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-5422247",
+  "titolo" : "La saga delle terre lontane",
+  "annoPubblicazione" : 1980,
+  "numeroPagine" : 596,
+  "autore" : "Chiara Galli",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9712685",
+  "titolo" : "Il portale degli universi",
+  "annoPubblicazione" : 1990,
+  "numeroPagine" : 582,
+  "autore" : "Carla Verdi",
   "genere" : "Giallo"
 }, {
-  "isbn" : "978-7074320",
-  "titolo" : "Storia e Miti",
-  "annoPubblicazione" : 1951,
-  "numeroPagine" : 62,
+  "isbn" : "978-8739443",
+  "titolo" : "Educazione e Formazione",
+  "annoPubblicazione" : 1989,
+  "numeroPagine" : 54,
   "periodicita" : "SEMESTRALE"
 }, {
-  "isbn" : "978-7575058",
+  "isbn" : "978-7666289",
+  "titolo" : "L'illusione della realtà",
+  "annoPubblicazione" : 1938,
+  "numeroPagine" : 900,
+  "autore" : "Francesco De Luca",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-4588880",
+  "titolo" : "Turismo Sostenibile",
+  "annoPubblicazione" : 1904,
+  "numeroPagine" : 41,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8661761",
+  "titolo" : "Linguaggi del Cinema",
+  "annoPubblicazione" : 2011,
+  "numeroPagine" : 57,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-7790561",
+  "titolo" : "Tecnologia dell'Informazione",
+  "annoPubblicazione" : 1956,
+  "numeroPagine" : 22,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-6313246",
+  "titolo" : "La torre degli enigmi",
+  "annoPubblicazione" : 1976,
+  "numeroPagine" : 381,
+  "autore" : "Silvia Conti",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-1176812",
+  "titolo" : "Le cronache del sole nascente",
+  "annoPubblicazione" : 1953,
+  "numeroPagine" : 302,
+  "autore" : "Federica Pini",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-2999272",
+  "titolo" : "Il libro degli incantesimi",
+  "annoPubblicazione" : 1997,
+  "numeroPagine" : 350,
+  "autore" : "Valeria Vitale",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-1173941",
+  "titolo" : "La spada della verità",
+  "annoPubblicazione" : 2009,
+  "numeroPagine" : 385,
+  "autore" : "Francesco De Luca",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-4042971",
+  "titolo" : "La maledizione del re oscuro",
+  "annoPubblicazione" : 1912,
+  "numeroPagine" : 888,
+  "autore" : "Marco Turchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3960886",
+  "titolo" : "Il regno dei sogni",
+  "annoPubblicazione" : 1978,
+  "numeroPagine" : 976,
+  "autore" : "Valeria Vitale",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-5537388",
+  "titolo" : "L'Esploratore della Natura",
+  "annoPubblicazione" : 1992,
+  "numeroPagine" : 60,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8103237",
+  "titolo" : "Il mistero delle caverne dorate",
+  "annoPubblicazione" : 2018,
+  "numeroPagine" : 768,
+  "autore" : "Paolo Fontana",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-4272554",
+  "titolo" : "Storia e Miti",
+  "annoPubblicazione" : 1952,
+  "numeroPagine" : 40,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-1504183",
+  "titolo" : "La biblioteca dei segreti perduti",
+  "annoPubblicazione" : 2000,
+  "numeroPagine" : 962,
+  "autore" : "Martina Sala",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-6690188",
+  "titolo" : "Viaggi e Avventure",
+  "annoPubblicazione" : 1902,
+  "numeroPagine" : 68,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-3549382",
+  "titolo" : "Le terre del crepuscolo",
+  "annoPubblicazione" : 1982,
+  "numeroPagine" : 280,
+  "autore" : "Mario Rossi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-9360558",
+  "titolo" : "Il segreto della luna argentata",
+  "annoPubblicazione" : 1913,
+  "numeroPagine" : 870,
+  "autore" : "Chiara Galli",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-7019134",
+  "titolo" : "L'ultimo canto del cigno",
+  "annoPubblicazione" : 1939,
+  "numeroPagine" : 264,
+  "autore" : "Paolo Fontana",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-2291980",
+  "titolo" : "Il custode dei ricordi",
+  "annoPubblicazione" : 1901,
+  "numeroPagine" : 800,
+  "autore" : "Mario Rossi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-5629382",
+  "titolo" : "Il regno dei sogni",
+  "annoPubblicazione" : 2019,
+  "numeroPagine" : 985,
+  "autore" : "Federica Pini",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-7885998",
+  "titolo" : "Energia e Sostenibilità",
+  "annoPubblicazione" : 1962,
+  "numeroPagine" : 64,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-5684373",
+  "titolo" : "La saga delle terre lontane",
+  "annoPubblicazione" : 2017,
+  "numeroPagine" : 776,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-4542441",
+  "titolo" : "Energia e Sostenibilità",
+  "annoPubblicazione" : 2013,
+  "numeroPagine" : 33,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-6872841",
+  "titolo" : "Tecnologia e Futuro",
+  "annoPubblicazione" : 1992,
+  "numeroPagine" : 56,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-6952375",
+  "titolo" : "Biotecnologie Avanzate",
+  "annoPubblicazione" : 1995,
+  "numeroPagine" : 52,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-3801370",
+  "titolo" : "Il labirinto delle illusioni",
+  "annoPubblicazione" : 1961,
+  "numeroPagine" : 382,
+  "autore" : "Giulia Neri",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-7348097",
+  "titolo" : "Il ritorno del lupo bianco",
+  "annoPubblicazione" : 1988,
+  "numeroPagine" : 811,
+  "autore" : "Chiara Galli",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-6915101",
+  "titolo" : "Storia e Miti",
+  "annoPubblicazione" : 1920,
+  "numeroPagine" : 67,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3954309",
+  "titolo" : "La biblioteca dei segreti perduti",
+  "annoPubblicazione" : 2015,
+  "numeroPagine" : 121,
+  "autore" : "Chiara Galli",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-4761174",
+  "titolo" : "La Rivista dell'Astronomia",
+  "annoPubblicazione" : 1958,
+  "numeroPagine" : 46,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-3126988",
+  "titolo" : "Architettura e Innovazione",
+  "annoPubblicazione" : 1912,
+  "numeroPagine" : 22,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-4761292",
+  "titolo" : "Scienza dei Materiali",
+  "annoPubblicazione" : 1901,
+  "numeroPagine" : 25,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-2399110",
+  "titolo" : "Il crepuscolo degli eroi",
+  "annoPubblicazione" : 1979,
+  "numeroPagine" : 997,
+  "autore" : "Giulia Neri",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9462665",
+  "titolo" : "L'illusione della realtà",
+  "annoPubblicazione" : 1968,
+  "numeroPagine" : 873,
+  "autore" : "Valeria Vitale",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-5044481",
+  "titolo" : "Tecnologia e Futuro",
+  "annoPubblicazione" : 1952,
+  "numeroPagine" : 20,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-4285843",
+  "titolo" : "Il labirinto delle illusioni",
+  "annoPubblicazione" : 2018,
+  "numeroPagine" : 320,
+  "autore" : "Carla Verdi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-7481267",
+  "titolo" : "Il diario del viandante",
+  "annoPubblicazione" : 1950,
+  "numeroPagine" : 991,
+  "autore" : "Alessandro Greco",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-9951210",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 1919,
+  "numeroPagine" : 31,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-3231267",
   "titolo" : "Il canto della fenice dorata",
-  "annoPubblicazione" : 1951,
-  "numeroPagine" : 710,
+  "annoPubblicazione" : 1963,
+  "numeroPagine" : 617,
+  "autore" : "Luca Bruni",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-8344945",
+  "titolo" : "Tecnologia e Futuro",
+  "annoPubblicazione" : 1904,
+  "numeroPagine" : 42,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3862843",
+  "titolo" : "La biblioteca dei segreti perduti",
+  "annoPubblicazione" : 1974,
+  "numeroPagine" : 431,
+  "autore" : "Federica Pini",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-9956921",
+  "titolo" : "Musica e Tendenze",
+  "annoPubblicazione" : 1993,
+  "numeroPagine" : 55,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4520438",
+  "titolo" : "La spada della verità",
+  "annoPubblicazione" : 1920,
+  "numeroPagine" : 539,
+  "autore" : "Martina Sala",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-7590319",
+  "titolo" : "La Vita Marina",
+  "annoPubblicazione" : 2007,
+  "numeroPagine" : 22,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-2647656",
+  "titolo" : "Il portale degli universi",
+  "annoPubblicazione" : 1931,
+  "numeroPagine" : 385,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-8556714",
+  "titolo" : "Filosofia e Scienza",
+  "annoPubblicazione" : 1950,
+  "numeroPagine" : 46,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-8917463",
+  "titolo" : "Stili di Vita e Salute",
+  "annoPubblicazione" : 1967,
+  "numeroPagine" : 59,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3907958",
+  "titolo" : "Il segreto della luna argentata",
+  "annoPubblicazione" : 1925,
+  "numeroPagine" : 516,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-2164576",
+  "titolo" : "La biblioteca dei segreti perduti",
+  "annoPubblicazione" : 1949,
+  "numeroPagine" : 135,
+  "autore" : "Federica Pini",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-6762651",
+  "titolo" : "Progresso Medico",
+  "annoPubblicazione" : 1946,
+  "numeroPagine" : 37,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4821668",
+  "titolo" : "La danza delle fiamme",
+  "annoPubblicazione" : 2003,
+  "numeroPagine" : 364,
   "autore" : "Anna Moretti",
   "genere" : "Storico"
 }, {
-  "isbn" : "978-7091784",
-  "titolo" : "Viaggi e Avventure",
-  "annoPubblicazione" : 1911,
+  "isbn" : "978-6998029",
+  "titolo" : "La strada verso l'eternità",
+  "annoPubblicazione" : 1961,
+  "numeroPagine" : 536,
+  "autore" : "Marco Turchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-9754311",
+  "titolo" : "L'ombra oltre il confine",
+  "annoPubblicazione" : 1919,
+  "numeroPagine" : 785,
+  "autore" : "Mario Rossi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-5185997",
+  "titolo" : "Le cronache della città perduta",
+  "annoPubblicazione" : 1901,
+  "numeroPagine" : 139,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-7285088",
+  "titolo" : "Il Pensiero Scientifico",
+  "annoPubblicazione" : 2014,
   "numeroPagine" : 54,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-9152187",
+  "titolo" : "La Vita Marina",
+  "annoPubblicazione" : 1958,
+  "numeroPagine" : 66,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-4502411",
+  "titolo" : "Tecniche di Comunicazione",
+  "annoPubblicazione" : 2004,
+  "numeroPagine" : 31,
   "periodicita" : "MENSILE"
 }, {
-  "isbn" : "999999999",
-  "titolo" : "IO, Pippo.",
-  "annoPubblicazione" : 2000,
-  "numeroPagine" : 254,
-  "autore" : "Pippo Baudo",
+  "isbn" : "978-7032927",
+  "titolo" : "Il destino dei cavalieri",
+  "annoPubblicazione" : 2016,
+  "numeroPagine" : 660,
+  "autore" : "Paolo Fontana",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7258548",
+  "titolo" : "Il custode dei ricordi",
+  "annoPubblicazione" : 2018,
+  "numeroPagine" : 380,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-1648009",
+  "titolo" : "Il cuore del vulcano",
+  "annoPubblicazione" : 1939,
+  "numeroPagine" : 672,
+  "autore" : "Alessandro Greco",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-2165974",
+  "titolo" : "Scoperte Archeologiche",
+  "annoPubblicazione" : 2018,
+  "numeroPagine" : 68,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4005007",
+  "titolo" : "Musica e Tendenze",
+  "annoPubblicazione" : 2012,
+  "numeroPagine" : 43,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-4057714",
+  "titolo" : "Il cuore del vulcano",
+  "annoPubblicazione" : 1934,
+  "numeroPagine" : 978,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-6795563",
+  "titolo" : "Architettura e Innovazione",
+  "annoPubblicazione" : 1956,
+  "numeroPagine" : 45,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-7474053",
+  "titolo" : "Le ombre del passato",
+  "annoPubblicazione" : 1977,
+  "numeroPagine" : 101,
+  "autore" : "Carla Verdi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-1920420",
+  "titolo" : "La saga delle terre lontane",
+  "annoPubblicazione" : 1991,
+  "numeroPagine" : 787,
+  "autore" : "Giulia Neri",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-4260557",
+  "titolo" : "Innovazioni Digitali",
+  "annoPubblicazione" : 1937,
+  "numeroPagine" : 52,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-2196636",
+  "titolo" : "L'arte della guerra dimenticata",
+  "annoPubblicazione" : 1951,
+  "numeroPagine" : 536,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-7140564",
+  "titolo" : "Le cronache del vento del nord",
+  "annoPubblicazione" : 1960,
+  "numeroPagine" : 833,
+  "autore" : "Giulia Neri",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-8298056",
+  "titolo" : "Turismo Sostenibile",
+  "annoPubblicazione" : 1952,
+  "numeroPagine" : 35,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9643766",
+  "titolo" : "Turismo Sostenibile",
+  "annoPubblicazione" : 1983,
+  "numeroPagine" : 46,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-7947734",
+  "titolo" : "Biotecnologie Avanzate",
+  "annoPubblicazione" : 1924,
+  "numeroPagine" : 40,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-9348884",
+  "titolo" : "Il segreto della luna argentata",
+  "annoPubblicazione" : 1904,
+  "numeroPagine" : 414,
+  "autore" : "Valeria Vitale",
   "genere" : "Biografia"
+}, {
+  "isbn" : "978-1164692",
+  "titolo" : "L'arte di cambiare il destino",
+  "annoPubblicazione" : 1954,
+  "numeroPagine" : 442,
+  "autore" : "Luca Bruni",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-7182254",
+  "titolo" : "Tecnologie Verdi",
+  "annoPubblicazione" : 1938,
+  "numeroPagine" : 28,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-1016881",
+  "titolo" : "Il risveglio delle antiche leggende",
+  "annoPubblicazione" : 1993,
+  "numeroPagine" : 427,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3636849",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 2004,
+  "numeroPagine" : 63,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-3023885",
+  "titolo" : "L'isola senza tempo",
+  "annoPubblicazione" : 1903,
+  "numeroPagine" : 903,
+  "autore" : "Mario Rossi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-8926327",
+  "titolo" : "L'illusione della realtà",
+  "annoPubblicazione" : 2016,
+  "numeroPagine" : 493,
+  "autore" : "Marco Turchi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-1219951",
+  "titolo" : "Il risveglio delle antiche leggende",
+  "annoPubblicazione" : 1919,
+  "numeroPagine" : 742,
+  "autore" : "Martina Sala",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3077927",
+  "titolo" : "Misteri della Scienza",
+  "annoPubblicazione" : 1985,
+  "numeroPagine" : 49,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9736456",
+  "titolo" : "L'isola senza tempo",
+  "annoPubblicazione" : 1925,
+  "numeroPagine" : 396,
+  "autore" : "Mario Rossi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-8147619",
+  "titolo" : "L'eco della valle segreta",
+  "annoPubblicazione" : 2012,
+  "numeroPagine" : 947,
+  "autore" : "Martina Sala",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-3483183",
+  "titolo" : "Il cavaliere della luna piena",
+  "annoPubblicazione" : 1938,
+  "numeroPagine" : 550,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-1203375",
+  "titolo" : "Le cronache del vento del nord",
+  "annoPubblicazione" : 1999,
+  "numeroPagine" : 126,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-6778475",
+  "titolo" : "Linguistica Applicata",
+  "annoPubblicazione" : 2019,
+  "numeroPagine" : 60,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-2318596",
+  "titolo" : "La ricerca della verità eterna",
+  "annoPubblicazione" : 1957,
+  "numeroPagine" : 109,
+  "autore" : "Federica Pini",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-3151396",
+  "titolo" : "Le stelle del destino",
+  "annoPubblicazione" : 1945,
+  "numeroPagine" : 100,
+  "autore" : "Martina Sala",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-1771506",
+  "titolo" : "Le stelle del destino",
+  "annoPubblicazione" : 1974,
+  "numeroPagine" : 110,
+  "autore" : "Federica Pini",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-8433949",
+  "titolo" : "Esplorazione dello Spazio",
+  "annoPubblicazione" : 2010,
+  "numeroPagine" : 64,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-1495350",
+  "titolo" : "Linguistica Applicata",
+  "annoPubblicazione" : 1945,
+  "numeroPagine" : 20,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-2692314",
+  "titolo" : "Il guardiano delle anime",
+  "annoPubblicazione" : 1910,
+  "numeroPagine" : 391,
+  "autore" : "Silvia Conti",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-2855143",
+  "titolo" : "Cucina Internazionale",
+  "annoPubblicazione" : 1908,
+  "numeroPagine" : 41,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-8619601",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 1906,
+  "numeroPagine" : 23,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-9553497",
+  "titolo" : "Tecnologia dell'Informazione",
+  "annoPubblicazione" : 1965,
+  "numeroPagine" : 62,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-9844683",
+  "titolo" : "Il Mondo degli Animali",
+  "annoPubblicazione" : 1935,
+  "numeroPagine" : 58,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9048847",
+  "titolo" : "Visioni del Domani",
+  "annoPubblicazione" : 1906,
+  "numeroPagine" : 56,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9742128",
+  "titolo" : "Progresso Medico",
+  "annoPubblicazione" : 1971,
+  "numeroPagine" : 58,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-2367992",
+  "titolo" : "Le cronache del vento del nord",
+  "annoPubblicazione" : 1907,
+  "numeroPagine" : 596,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-2669530",
+  "titolo" : "La leggenda del re di ghiaccio",
+  "annoPubblicazione" : 1949,
+  "numeroPagine" : 302,
+  "autore" : "Mario Rossi",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9339798",
+  "titolo" : "Energia e Sostenibilità",
+  "annoPubblicazione" : 1969,
+  "numeroPagine" : 55,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-8696414",
+  "titolo" : "Il cuore del vulcano",
+  "annoPubblicazione" : 1971,
+  "numeroPagine" : 730,
+  "autore" : "Marco Turchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-1291107",
+  "titolo" : "Il canto della fenice dorata",
+  "annoPubblicazione" : 1936,
+  "numeroPagine" : 737,
+  "autore" : "Paolo Fontana",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-6351199",
+  "titolo" : "L'isola senza tempo",
+  "annoPubblicazione" : 1969,
+  "numeroPagine" : 736,
+  "autore" : "Paolo Fontana",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-7343837",
+  "titolo" : "Il viaggio dell'eroe dimenticato",
+  "annoPubblicazione" : 1904,
+  "numeroPagine" : 428,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-8000901",
+  "titolo" : "La leggenda del re di ghiaccio",
+  "annoPubblicazione" : 2009,
+  "numeroPagine" : 478,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-1870296",
+  "titolo" : "Tecnologie Verdi",
+  "annoPubblicazione" : 2002,
+  "numeroPagine" : 64,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-7515001",
+  "titolo" : "Le stelle del destino",
+  "annoPubblicazione" : 1972,
+  "numeroPagine" : 146,
+  "autore" : "Luca Bruni",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-2452983",
+  "titolo" : "Mondi Antichi e Moderni",
+  "annoPubblicazione" : 1923,
+  "numeroPagine" : 55,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8871298",
+  "titolo" : "I sogni di un tempo lontano",
+  "annoPubblicazione" : 1922,
+  "numeroPagine" : 926,
+  "autore" : "Mario Rossi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-9307940",
+  "titolo" : "Il diario del viandante",
+  "annoPubblicazione" : 1929,
+  "numeroPagine" : 359,
+  "autore" : "Elena Ferri",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-5215222",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 1919,
+  "numeroPagine" : 63,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-4979275",
+  "titolo" : "Musica e Tendenze",
+  "annoPubblicazione" : 1949,
+  "numeroPagine" : 67,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-6136443",
+  "titolo" : "L'arte di cambiare il destino",
+  "annoPubblicazione" : 1933,
+  "numeroPagine" : 913,
+  "autore" : "Valeria Vitale",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-8484199",
+  "titolo" : "Il labirinto delle illusioni",
+  "annoPubblicazione" : 1969,
+  "numeroPagine" : 768,
+  "autore" : "Federica Pini",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-5709960",
+  "titolo" : "Letteratura e Critica",
+  "annoPubblicazione" : 1981,
+  "numeroPagine" : 69,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-2848378",
+  "titolo" : "Scienza e Innovazione Oggi",
+  "annoPubblicazione" : 1909,
+  "numeroPagine" : 45,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-1987964",
+  "titolo" : "La maledizione del re oscuro",
+  "annoPubblicazione" : 1942,
+  "numeroPagine" : 145,
+  "autore" : "Marco Turchi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-9500974",
+  "titolo" : "Il segreto delle acque profonde",
+  "annoPubblicazione" : 2010,
+  "numeroPagine" : 748,
+  "autore" : "Anna Moretti",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3567175",
+  "titolo" : "Economia Globale",
+  "annoPubblicazione" : 2011,
+  "numeroPagine" : 54,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-5311420",
+  "titolo" : "Economia Globale",
+  "annoPubblicazione" : 1915,
+  "numeroPagine" : 59,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-7530761",
+  "titolo" : "La maledizione del re oscuro",
+  "annoPubblicazione" : 1910,
+  "numeroPagine" : 938,
+  "autore" : "Martina Sala",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-5077226",
+  "titolo" : "Nuovi Orizzonti Medici",
+  "annoPubblicazione" : 1995,
+  "numeroPagine" : 50,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-6208041",
+  "titolo" : "Il risveglio del drago",
+  "annoPubblicazione" : 2017,
+  "numeroPagine" : 991,
+  "autore" : "Carla Verdi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-4481649",
+  "titolo" : "L'ombra oltre il confine",
+  "annoPubblicazione" : 1985,
+  "numeroPagine" : 891,
+  "autore" : "Luca Bruni",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3233755",
+  "titolo" : "Esplorazione dello Spazio",
+  "annoPubblicazione" : 1991,
+  "numeroPagine" : 38,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-4369277",
+  "titolo" : "Storia e Miti",
+  "annoPubblicazione" : 1902,
+  "numeroPagine" : 32,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9427456",
+  "titolo" : "Il destino dei cavalieri",
+  "annoPubblicazione" : 1924,
+  "numeroPagine" : 577,
+  "autore" : "Giulia Neri",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7062409",
+  "titolo" : "Il Pensiero Scientifico",
+  "annoPubblicazione" : 1949,
+  "numeroPagine" : 39,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-9710571",
+  "titolo" : "Innovazione in Agricoltura",
+  "annoPubblicazione" : 1968,
+  "numeroPagine" : 43,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-1673959",
+  "titolo" : "Educazione e Formazione",
+  "annoPubblicazione" : 1983,
+  "numeroPagine" : 29,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9659614",
+  "titolo" : "Storia e Miti",
+  "annoPubblicazione" : 1930,
+  "numeroPagine" : 46,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-1011934",
+  "titolo" : "I sogni di un tempo lontano",
+  "annoPubblicazione" : 1982,
+  "numeroPagine" : 898,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-9441967",
+  "titolo" : "Il crepuscolo degli eroi",
+  "annoPubblicazione" : 1967,
+  "numeroPagine" : 225,
+  "autore" : "Luca Bruni",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3611191",
+  "titolo" : "Tecniche di Comunicazione",
+  "annoPubblicazione" : 1946,
+  "numeroPagine" : 61,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8372773",
+  "titolo" : "Innovazioni Digitali",
+  "annoPubblicazione" : 1964,
+  "numeroPagine" : 54,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-9035819",
+  "titolo" : "La guerra degli dei",
+  "annoPubblicazione" : 2007,
+  "numeroPagine" : 230,
+  "autore" : "Elena Ferri",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9943417",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 2003,
+  "numeroPagine" : 26,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4362977",
+  "titolo" : "La danza delle fiamme",
+  "annoPubblicazione" : 2005,
+  "numeroPagine" : 339,
+  "autore" : "Marco Turchi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-1846234",
+  "titolo" : "Energia del Futuro",
+  "annoPubblicazione" : 1981,
+  "numeroPagine" : 68,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4847235",
+  "titolo" : "Tecnologia dell'Informazione",
+  "annoPubblicazione" : 1929,
+  "numeroPagine" : 56,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-3931731",
+  "titolo" : "Misteri della Scienza",
+  "annoPubblicazione" : 1957,
+  "numeroPagine" : 37,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-5875836",
+  "titolo" : "Il cuore del vulcano",
+  "annoPubblicazione" : 2006,
+  "numeroPagine" : 371,
+  "autore" : "Luca Bruni",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-8878989",
+  "titolo" : "Visioni del Domani",
+  "annoPubblicazione" : 1974,
+  "numeroPagine" : 50,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3551479",
+  "titolo" : "La ricerca della verità eterna",
+  "annoPubblicazione" : 1951,
+  "numeroPagine" : 911,
+  "autore" : "Giulia Neri",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-4980070",
+  "titolo" : "Il libro degli incantesimi",
+  "annoPubblicazione" : 1962,
+  "numeroPagine" : 261,
+  "autore" : "Paolo Fontana",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-5975791",
+  "titolo" : "La chiave del tempo",
+  "annoPubblicazione" : 1938,
+  "numeroPagine" : 409,
+  "autore" : "Chiara Galli",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-2538694",
+  "titolo" : "Tecnologia e Futuro",
+  "annoPubblicazione" : 1993,
+  "numeroPagine" : 31,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-2104139",
+  "titolo" : "Il richiamo delle sirene",
+  "annoPubblicazione" : 1915,
+  "numeroPagine" : 780,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-2252189",
+  "titolo" : "Geologia e Paesaggi",
+  "annoPubblicazione" : 2009,
+  "numeroPagine" : 45,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-9045878",
+  "titolo" : "Conservazione della Natura",
+  "annoPubblicazione" : 1974,
+  "numeroPagine" : 43,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-7699408",
+  "titolo" : "Mondi Antichi e Moderni",
+  "annoPubblicazione" : 2016,
+  "numeroPagine" : 47,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-9499160",
+  "titolo" : "Il risveglio del drago",
+  "annoPubblicazione" : 1927,
+  "numeroPagine" : 526,
+  "autore" : "Alessandro Greco",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7622101",
+  "titolo" : "Scoperte Archeologiche",
+  "annoPubblicazione" : 1940,
+  "numeroPagine" : 26,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-5099251",
+  "titolo" : "Le cronache del sole nascente",
+  "annoPubblicazione" : 1980,
+  "numeroPagine" : 480,
+  "autore" : "Chiara Galli",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-1267415",
+  "titolo" : "Il viaggio dell'eroe dimenticato",
+  "annoPubblicazione" : 1935,
+  "numeroPagine" : 840,
+  "autore" : "Federica Pini",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-2811477",
+  "titolo" : "L'isola senza tempo",
+  "annoPubblicazione" : 1945,
+  "numeroPagine" : 827,
+  "autore" : "Carla Verdi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-5564351",
+  "titolo" : "Innovazioni Digitali",
+  "annoPubblicazione" : 1903,
+  "numeroPagine" : 38,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-7123267",
+  "titolo" : "Analisi Sociologica",
+  "annoPubblicazione" : 1936,
+  "numeroPagine" : 58,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-7616802",
+  "titolo" : "Visioni del Domani",
+  "annoPubblicazione" : 1931,
+  "numeroPagine" : 35,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4800145",
+  "titolo" : "Il labirinto delle illusioni",
+  "annoPubblicazione" : 1976,
+  "numeroPagine" : 594,
+  "autore" : "Francesco De Luca",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-2643066",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 1908,
+  "numeroPagine" : 20,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-2098097",
+  "titolo" : "Energia e Sostenibilità",
+  "annoPubblicazione" : 1960,
+  "numeroPagine" : 30,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-7945579",
+  "titolo" : "Il libro degli incantesimi",
+  "annoPubblicazione" : 2001,
+  "numeroPagine" : 804,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-4722118",
+  "titolo" : "Nuovi Orizzonti Medici",
+  "annoPubblicazione" : 1989,
+  "numeroPagine" : 43,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3410490",
+  "titolo" : "Il richiamo delle sirene",
+  "annoPubblicazione" : 1934,
+  "numeroPagine" : 429,
+  "autore" : "Valeria Vitale",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-4305724",
+  "titolo" : "La strada verso l'eternità",
+  "annoPubblicazione" : 1931,
+  "numeroPagine" : 326,
+  "autore" : "Paolo Fontana",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-9918321",
+  "titolo" : "La torre degli enigmi",
+  "annoPubblicazione" : 1965,
+  "numeroPagine" : 219,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-9276865",
+  "titolo" : "Tecniche di Comunicazione",
+  "annoPubblicazione" : 1999,
+  "numeroPagine" : 66,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-3887600",
+  "titolo" : "Innovazione in Agricoltura",
+  "annoPubblicazione" : 1962,
+  "numeroPagine" : 53,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-7084384",
+  "titolo" : "Il Giornale della Conoscenza",
+  "annoPubblicazione" : 1946,
+  "numeroPagine" : 42,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8605695",
+  "titolo" : "L'isola senza tempo",
+  "annoPubblicazione" : 1940,
+  "numeroPagine" : 990,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-4235071",
+  "titolo" : "La spada della verità",
+  "annoPubblicazione" : 1976,
+  "numeroPagine" : 937,
+  "autore" : "Elena Ferri",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-8683595",
+  "titolo" : "La danza delle fiamme",
+  "annoPubblicazione" : 1913,
+  "numeroPagine" : 523,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7351619",
+  "titolo" : "Le memorie dell'infinito",
+  "annoPubblicazione" : 1934,
+  "numeroPagine" : 936,
+  "autore" : "Luca Bruni",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-1062135",
+  "titolo" : "Arte e Cultura Contemporanea",
+  "annoPubblicazione" : 1990,
+  "numeroPagine" : 25,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8697789",
+  "titolo" : "Filosofia e Scienza",
+  "annoPubblicazione" : 1909,
+  "numeroPagine" : 43,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-6034895",
+  "titolo" : "Il segreto delle acque profonde",
+  "annoPubblicazione" : 2016,
+  "numeroPagine" : 430,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-5749661",
+  "titolo" : "Energia del Futuro",
+  "annoPubblicazione" : 1941,
+  "numeroPagine" : 67,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-4164844",
+  "titolo" : "Il cavaliere della luna piena",
+  "annoPubblicazione" : 1990,
+  "numeroPagine" : 142,
+  "autore" : "Elena Ferri",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9400329",
+  "titolo" : "Storia e Miti",
+  "annoPubblicazione" : 1913,
+  "numeroPagine" : 52,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-7626467",
+  "titolo" : "Il Futuro della Robotica",
+  "annoPubblicazione" : 1945,
+  "numeroPagine" : 25,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4912823",
+  "titolo" : "Le stelle del destino",
+  "annoPubblicazione" : 1937,
+  "numeroPagine" : 288,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-8753419",
+  "titolo" : "Fotografia Contemporanea",
+  "annoPubblicazione" : 1936,
+  "numeroPagine" : 67,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8878532",
+  "titolo" : "Il cavaliere della luna piena",
+  "annoPubblicazione" : 1983,
+  "numeroPagine" : 682,
+  "autore" : "Silvia Conti",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-8941761",
+  "titolo" : "Innovazione in Agricoltura",
+  "annoPubblicazione" : 1901,
+  "numeroPagine" : 62,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-7908294",
+  "titolo" : "Il cavaliere della luna piena",
+  "annoPubblicazione" : 1971,
+  "numeroPagine" : 676,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-5764492",
+  "titolo" : "Il segreto delle acque profonde",
+  "annoPubblicazione" : 1915,
+  "numeroPagine" : 830,
+  "autore" : "Luca Bruni",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-9958399",
+  "titolo" : "Biotecnologie Avanzate",
+  "annoPubblicazione" : 1991,
+  "numeroPagine" : 22,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-7759796",
+  "titolo" : "L'eco della valle segreta",
+  "annoPubblicazione" : 1942,
+  "numeroPagine" : 217,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7196197",
+  "titolo" : "L'eco della valle segreta",
+  "annoPubblicazione" : 2012,
+  "numeroPagine" : 736,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-9099292",
+  "titolo" : "Nuove Frontiere della Fisica",
+  "annoPubblicazione" : 1907,
+  "numeroPagine" : 53,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8808044",
+  "titolo" : "Tecnologia e Futuro",
+  "annoPubblicazione" : 1928,
+  "numeroPagine" : 45,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-7394623",
+  "titolo" : "Le cronache della città perduta",
+  "annoPubblicazione" : 1997,
+  "numeroPagine" : 929,
+  "autore" : "Luca Bruni",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-6523122",
+  "titolo" : "Nuove Frontiere della Fisica",
+  "annoPubblicazione" : 2005,
+  "numeroPagine" : 46,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-6561170",
+  "titolo" : "Clima e Ambiente",
+  "annoPubblicazione" : 1953,
+  "numeroPagine" : 61,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-9217522",
+  "titolo" : "L'isola senza tempo",
+  "annoPubblicazione" : 2014,
+  "numeroPagine" : 159,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-4571522",
+  "titolo" : "Progresso Medico",
+  "annoPubblicazione" : 1921,
+  "numeroPagine" : 24,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-7316326",
+  "titolo" : "Il Mondo degli Animali",
+  "annoPubblicazione" : 1961,
+  "numeroPagine" : 52,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-4424574",
+  "titolo" : "Il richiamo delle sirene",
+  "annoPubblicazione" : 1951,
+  "numeroPagine" : 171,
+  "autore" : "Francesco De Luca",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-7783472",
+  "titolo" : "Il ritorno del lupo bianco",
+  "annoPubblicazione" : 2001,
+  "numeroPagine" : 944,
+  "autore" : "Francesco De Luca",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9539626",
+  "titolo" : "L'illusione della realtà",
+  "annoPubblicazione" : 1985,
+  "numeroPagine" : 711,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7051719",
+  "titolo" : "Il diario del viandante",
+  "annoPubblicazione" : 1964,
+  "numeroPagine" : 121,
+  "autore" : "Elena Ferri",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-1352276",
+  "titolo" : "Linguistica Applicata",
+  "annoPubblicazione" : 1908,
+  "numeroPagine" : 51,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-4991196",
+  "titolo" : "La guerra degli dei",
+  "annoPubblicazione" : 1997,
+  "numeroPagine" : 754,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-3721411",
+  "titolo" : "La strada verso l'eternità",
+  "annoPubblicazione" : 1998,
+  "numeroPagine" : 273,
+  "autore" : "Mario Rossi",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-2103625",
+  "titolo" : "Il segreto delle acque profonde",
+  "annoPubblicazione" : 2008,
+  "numeroPagine" : 898,
+  "autore" : "Anna Moretti",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-9630628",
+  "titolo" : "Le cronache del vento del nord",
+  "annoPubblicazione" : 1918,
+  "numeroPagine" : 484,
+  "autore" : "Federica Pini",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3444294",
+  "titolo" : "Linguaggi del Cinema",
+  "annoPubblicazione" : 1978,
+  "numeroPagine" : 49,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-5060855",
+  "titolo" : "Il viaggio dell'eroe dimenticato",
+  "annoPubblicazione" : 1929,
+  "numeroPagine" : 901,
+  "autore" : "Paolo Fontana",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-4381268",
+  "titolo" : "Le cronache della città perduta",
+  "annoPubblicazione" : 1917,
+  "numeroPagine" : 933,
+  "autore" : "Luca Bruni",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-5934896",
+  "titolo" : "Il risveglio del drago",
+  "annoPubblicazione" : 1947,
+  "numeroPagine" : 157,
+  "autore" : "Luca Bruni",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-7127600",
+  "titolo" : "La Rivista dell'Astronomia",
+  "annoPubblicazione" : 1955,
+  "numeroPagine" : 46,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-9145302",
+  "titolo" : "Cucina Internazionale",
+  "annoPubblicazione" : 1912,
+  "numeroPagine" : 51,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-2167612",
+  "titolo" : "L'Esploratore della Natura",
+  "annoPubblicazione" : 1993,
+  "numeroPagine" : 35,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-5353112",
+  "titolo" : "L'arte di cambiare il destino",
+  "annoPubblicazione" : 1927,
+  "numeroPagine" : 100,
+  "autore" : "Luigi Bianchi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-3447594",
+  "titolo" : "La Rivista dell'Astronomia",
+  "annoPubblicazione" : 1928,
+  "numeroPagine" : 68,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-6015398",
+  "titolo" : "Le cronache della città perduta",
+  "annoPubblicazione" : 1971,
+  "numeroPagine" : 940,
+  "autore" : "Riccardo Barbieri",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-5927018",
+  "titolo" : "Energia Rinnovabile",
+  "annoPubblicazione" : 1909,
+  "numeroPagine" : 24,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-5469383",
+  "titolo" : "Linguistica Applicata",
+  "annoPubblicazione" : 1912,
+  "numeroPagine" : 69,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-2125435",
+  "titolo" : "La torre degli enigmi",
+  "annoPubblicazione" : 1966,
+  "numeroPagine" : 300,
+  "autore" : "Alessandro Greco",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-3433783",
+  "titolo" : "Musica e Tendenze",
+  "annoPubblicazione" : 1927,
+  "numeroPagine" : 30,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-9362219",
+  "titolo" : "Le cronache del vento del nord",
+  "annoPubblicazione" : 1980,
+  "numeroPagine" : 602,
+  "autore" : "Paolo Fontana",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-7165709",
+  "titolo" : "La profezia del mago",
+  "annoPubblicazione" : 1971,
+  "numeroPagine" : 287,
+  "autore" : "Giorgio Lombardi",
+  "genere" : "Giallo"
+}, {
+  "isbn" : "978-5485521",
+  "titolo" : "Biotecnologie Avanzate",
+  "annoPubblicazione" : 1922,
+  "numeroPagine" : 49,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-5419400",
+  "titolo" : "Innovazioni Digitali",
+  "annoPubblicazione" : 2007,
+  "numeroPagine" : 62,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-7949242",
+  "titolo" : "Scienza dei Materiali",
+  "annoPubblicazione" : 2012,
+  "numeroPagine" : 45,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8195571",
+  "titolo" : "Le ombre del passato",
+  "annoPubblicazione" : 1973,
+  "numeroPagine" : 437,
+  "autore" : "Giulia Neri",
+  "genere" : "Narrativa"
+}, {
+  "isbn" : "978-6531347",
+  "titolo" : "Analisi Sociologica",
+  "annoPubblicazione" : 1911,
+  "numeroPagine" : 57,
+  "periodicita" : "SEMESTRALE"
+}, {
+  "isbn" : "978-2312333",
+  "titolo" : "Arte e Cultura Contemporanea",
+  "annoPubblicazione" : 1937,
+  "numeroPagine" : 52,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-5018990",
+  "titolo" : "Clima e Ambiente",
+  "annoPubblicazione" : 1908,
+  "numeroPagine" : 51,
+  "periodicita" : "MENSILE"
+}, {
+  "isbn" : "978-8970178",
+  "titolo" : "Il libro degli incantesimi",
+  "annoPubblicazione" : 1907,
+  "numeroPagine" : 859,
+  "autore" : "Paolo Fontana",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-7642240",
+  "titolo" : "Architettura e Innovazione",
+  "annoPubblicazione" : 2001,
+  "numeroPagine" : 21,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-3469277",
+  "titolo" : "Il mistero della foresta incantata",
+  "annoPubblicazione" : 1962,
+  "numeroPagine" : 761,
+  "autore" : "Francesco De Luca",
+  "genere" : "Romanzo"
+}, {
+  "isbn" : "978-9126961",
+  "titolo" : "La danza delle stelle spezzate",
+  "annoPubblicazione" : 1954,
+  "numeroPagine" : 579,
+  "autore" : "Mario Rossi",
+  "genere" : "Biografia"
+}, {
+  "isbn" : "978-8615713",
+  "titolo" : "La danza delle fiamme",
+  "annoPubblicazione" : 1998,
+  "numeroPagine" : 643,
+  "autore" : "Martina Sala",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-8164417",
+  "titolo" : "L'ombra oltre il confine",
+  "annoPubblicazione" : 1969,
+  "numeroPagine" : 166,
+  "autore" : "Giulia Neri",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-9538576",
+  "titolo" : "L'ultimo canto del cigno",
+  "annoPubblicazione" : 1903,
+  "numeroPagine" : 688,
+  "autore" : "Silvia Conti",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-1436756",
+  "titolo" : "Turismo Sostenibile",
+  "annoPubblicazione" : 1906,
+  "numeroPagine" : 21,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-6952783",
+  "titolo" : "Psicologia Moderna",
+  "annoPubblicazione" : 2013,
+  "numeroPagine" : 30,
+  "periodicita" : "SETTIMANALE"
+}, {
+  "isbn" : "978-2599443",
+  "titolo" : "La chiave del tempo",
+  "annoPubblicazione" : 1957,
+  "numeroPagine" : 419,
+  "autore" : "Anna Moretti",
+  "genere" : "Fantasy"
+}, {
+  "isbn" : "978-3614065",
+  "titolo" : "Il risveglio delle antiche leggende",
+  "annoPubblicazione" : 2007,
+  "numeroPagine" : 160,
+  "autore" : "Paolo Fontana",
+  "genere" : "Storico"
+}, {
+  "isbn" : "978-1282107",
+  "titolo" : "Nuovi Orizzonti Medici",
+  "annoPubblicazione" : 1934,
+  "numeroPagine" : 42,
+  "periodicita" : "SEMESTRALE"
 } ]

@@ -19,9 +19,12 @@ public class GeneratoreFileJSON {
     public static void GeneraFileCasuale(String filePath) {
         List<ElementoCatalogo> elementi = new ArrayList<>();
 
-        for (int i = 0; i < 10; i++) {
-            elementi.add(generaLibroCasuale());
-            elementi.add(generaRivistaCasuale());
+        for (int i = 0; i < 250; i++) {
+            int tipo = random.nextInt(2);
+            if (tipo == 0)
+                elementi.add(generaLibroCasuale());
+            else
+                elementi.add(generaRivistaCasuale());
         }
 
         scriviSuFileJSON(elementi, filePath);
@@ -63,7 +66,48 @@ public class GeneratoreFileJSON {
                 "I sogni di un tempo lontano",
                 "L'arte di cambiare il destino",
                 "La danza delle stelle spezzate",
-                "Il canto della fenice dorata"
+                "Il canto della fenice dorata",
+                "Le terre del crepuscolo",
+                "La torre degli enigmi",
+                "Il custode dei ricordi",
+                "Le ombre del passato",
+                "L'eco della valle segreta",
+                "Il risveglio del drago",
+                "L'isola senza tempo",
+                "La maledizione del re oscuro",
+                "Il segreto della luna argentata",
+                "Le cronache della città perduta",
+                "Il richiamo delle sirene",
+                "La profezia del mago",
+                "Il guardiano delle anime",
+                "Il destino dei cavalieri",
+                "La spada della verità",
+                "Il labirinto delle illusioni",
+                "Le cronache del vento del nord",
+                "Il viaggiatore delle stelle",
+                "La rinascita del mondo antico",
+                "La leggenda del re di ghiaccio",
+                "Il mistero delle caverne dorate",
+                "La guerra degli dei",
+                "Il cuore del vulcano",
+                "Le memorie dell'infinito",
+                "Il portale degli universi",
+                "Il ritorno del lupo bianco",
+                "La saga delle terre lontane",
+                "L'ultimo canto del cigno",
+                "Il libro degli incantesimi",
+                "La chiave del tempo",
+                "Il regno dei sogni",
+                "L'illusione della realtà",
+                "Il diario del viandante",
+                "Le stelle del destino",
+                "Il crepuscolo degli eroi",
+                "La danza delle fiamme",
+                "L'arte della guerra dimenticata",
+                "Il segreto delle acque profonde",
+                "Il cavaliere della luna piena",
+                "Il risveglio delle antiche leggende",
+                "La strada verso l'eternità"
         };
         return titoli[random.nextInt(titoli.length)];
     }
@@ -79,7 +123,48 @@ public class GeneratoreFileJSON {
                 "Il Giornale della Conoscenza",
                 "Storia e Miti",
                 "Il Pensiero Scientifico",
-                "Visioni del Domani"
+                "Visioni del Domani",
+                "Energia e Sostenibilità",
+                "La Rivista dell'Astronomia",
+                "Scoperte Archeologiche",
+                "Nuovi Orizzonti Medici",
+                "Tecnologie Verdi",
+                "Esplorazione dello Spazio",
+                "La Vita Marina",
+                "Stili di Vita e Salute",
+                "Scienza dei Materiali",
+                "Innovazione in Agricoltura",
+                "Moda e Design",
+                "Architettura e Innovazione",
+                "Fotografia Contemporanea",
+                "Musica e Tendenze",
+                "Il Mondo degli Animali",
+                "Letteratura e Critica",
+                "Linguaggi del Cinema",
+                "Misteri della Scienza",
+                "Tecnologia dell'Informazione",
+                "Clima e Ambiente",
+                "Psicologia Moderna",
+                "Educazione e Formazione",
+                "Economia Globale",
+                "Filosofia e Scienza",
+                "Energia Rinnovabile",
+                "Geologia e Paesaggi",
+                "Tecniche di Comunicazione",
+                "Biotecnologie Avanzate",
+                "Il Futuro della Robotica",
+                "Turismo Sostenibile",
+                "Cucina Internazionale",
+                "Ecosistemi in Evoluzione",
+                "Linguistica Applicata",
+                "Progresso Medico",
+                "Innovazioni Digitali",
+                "Conservazione della Natura",
+                "Analisi Sociologica",
+                "Il Mondo della Robotica",
+                "Nuove Frontiere della Fisica",
+                "Chimica e Innovazione",
+                "Energia del Futuro"
         };
         return titoli[random.nextInt(titoli.length)];
     }
@@ -87,13 +172,15 @@ public class GeneratoreFileJSON {
     private static String generaNomeAutoreCasuale() {
         String[] nomi = {
                 "Mario Rossi", "Luigi Bianchi", "Carla Verdi", "Giulia Neri", "Paolo Fontana", "Anna Moretti",
-                "Francesco De Luca", "Silvia Conti"
+                "Francesco De Luca", "Silvia Conti", "Marco Turchi", "Elena Ferri", "Luca Bruni", "Chiara Galli",
+                "Alessandro Greco", "Federica Pini", "Giorgio Lombardi", "Martina Sala", "Riccardo Barbieri",
+                "Valeria Vitale"
         };
         return nomi[random.nextInt(nomi.length)];
     }
 
     private static String generaGenereCasuale() {
-        String[] generi = { "Narrativa", "Fantasy", "Giallo", "Storico", "Fantascienza", "Biografia", "Romanzo Rosa" };
+        String[] generi = { "Narrativa", "Fantasy", "Giallo", "Storico", "Fantasy", "Biografia", "Romanzo" };
         return generi[random.nextInt(generi.length)];
     }
 
